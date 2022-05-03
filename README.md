@@ -9,7 +9,7 @@ tec-1 experiments with Antennas
 - How is antenna power measured? The general approach to antenna tests is to position a known transmitter and antenna at a known distance away from the tested antenna. The tested antenna is connected to a known receiver. The magnitude of the transmitter output is known, as is the loss of any cabling.
 - What is meant by peaking circuit? A circuit used to improve the high-frequency response of a broad-band amplifier; in shunt peaking, a small coil is placed in series with the anode load; in series peaking, the coil is placed in series with the grid of the following stage.
 - What are peak detectors? A peak detector is a series connection of a diode and a capacitor outputting a DC voltage equal to the peak value of the applied AC signal. 
-
+- Complex voltage and current meters. A second type of antenna analyzer measures the complex voltage across and current into the antenna. The operator then uses mathematical methods to calculate complex impedance, or reads it off a calibrated meter or a digital display. Professional instruments of this type are usually called network analyzers. Modern analyzers do not require the operator to adjust any R and X knobs as with the bridge-type analyzers. Many of these instruments have the ability to automatically sweep the frequency over a wide range and then plot the antenna characteristics on a graphical display. Doing this with a manually-operated bridge would be time consuming, requiring one to change the frequency and adjust the knobs at each frequency for a match.
 
 ## Ref
 - https://en.wikipedia.org/wiki/Antenna_tuner
